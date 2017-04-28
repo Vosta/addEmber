@@ -8,7 +8,7 @@
     "doc": "doc",
     "test": "tests"
   },
-  "repository": "",
+  "repository": "https://github.com/Vosta/addEmber",
   "scripts": {
     "build": "ember build",
     "start": "ember server",
