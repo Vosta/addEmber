@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../Hangman/Hangman/.idea/Hangman.iml" filepath="$PROJECT_DIR$/../Hangman/Hangman/.idea/Hangman.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/add-ember.iml" filepath="$PROJECT_DIR$/.idea/add-ember.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../emberServe/.idea/emberServe.iml" filepath="$PROJECT_DIR$/../emberServe/.idea/emberServe.iml" />
     </modules>
   </component>
 </project>

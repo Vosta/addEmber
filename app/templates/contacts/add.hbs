@@ -1,0 +1,19 @@
+<div id="exampleModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel">
+    <div id="dialog" class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close cls" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                <h3 class="modal-title" id="exampleModalLabel"></h3>
+            </div>
+            <div class="modal-body">
+                <div id="inputs" class="container">
+                    {{input class="fill er1" id="AddFname" placeholder="Name" type="text" value=name}}
+                </div>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="cls btn btn-default" data-dismiss="modal">Close</button>
+                <button type="button" class="btn btn-primary saveL" {{action "save"}}>Save</button>
+            </div>
+        </div>
+    </div>
+</div>
